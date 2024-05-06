@@ -17,4 +17,3 @@ This is a simple log parser written in JavaScript. It parses a log file containi
 #Assumptions
 The log file format is consistent with the example provided.
 Each line in the log file contains a valid HTTP request.
-The log file is not extremely large, and can be loaded into memory all at once.
